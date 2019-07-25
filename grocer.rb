@@ -5,7 +5,7 @@ def consolidate_cart(cart)
   m=x.keys[0]
   new_hash[m]= x[m]
   new_hash[m][:count]=1 
-  if new_hash
+  if 
   
   # if the current item already exists in new_hash      
   # increment the count by one  
